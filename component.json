@@ -3,7 +3,7 @@
   "name": "amity",
   "repo": "logo/amity",
   "description": "The Amity logo.",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
