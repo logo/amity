@@ -1,0 +1,21 @@
+
+/**
+ * Amity logo.
+ */
+
+.logo[data-logo="Amity"] {
+  width: 3.4621043824471305em;
+}
+
+.logo[data-logo="Amity"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="Amity"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Amity"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
